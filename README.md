@@ -13,5 +13,6 @@ html, css, sass (scss), js, react, redux, git, gulp
 #
 
 ### *Contacs:*
-### Inst: https://www.instagram.com/z_a_h_a_r_74/
-### VK: https://vk.com/idzaharip
+INST: https://www.instagram.com/z_a_h_a_r_74/
+VK: https://vk.com/idzaharip
+MAIL: usfuld@gmail.com
