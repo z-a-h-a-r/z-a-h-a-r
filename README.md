@@ -7,7 +7,7 @@
 #
 
 ### *Contacs:*
-> INST: https://www.instagram.com/z_a_h_a_r_74/
-> VK: https://vk.com/idzaharip
-> MAIL: usfuld@gmail.com
-> My website: /
+> ### INST: https://www.instagram.com/z_a_h_a_r_74/
+> ### VK: https://vk.com/idzaharip
+> ### MAIL: usfuld@gmail.com
+> ### My website: /
