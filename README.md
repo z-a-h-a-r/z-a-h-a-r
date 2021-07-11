@@ -1,7 +1,6 @@
-# 👋 Hi, my name is **Zahar Podyakov**!
+👋 Hi, my name is **Zahar Podyakov**!
+I'm **front-end developer** from *Сhelyabinsk*
 
-## I'm **front-end developer** from *Сhelyabinsk*
-
-### Check my website: /
+Check my website: /
 
 # *Technologies and languages*
