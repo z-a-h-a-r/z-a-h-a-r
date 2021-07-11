@@ -7,5 +7,5 @@ Check my website: /
 
 #
 
-*Technologies and languages*
+### *Technologies and languages*
 html, css, sass (scss), js, react, redux, git, gulp
