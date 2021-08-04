@@ -7,9 +7,9 @@
 #
 
 ### *Contacs:*
-> ### INST: https://www.instagram.com/z_a_h_a_r_74/
-> ### VK: https://vk.com/idzaharip
-> ### MAIL: usfuld@gmail.com
-> ### TELEGRAM: +79088189006
+> ### mail: usfuld@gmail.com
+> ### inst: https://www.instagram.com/z_a_h_a_r_74/
+> ### teleg: @z_a_h_a_r_74
+> ### vk: https://vk.com/idzaharip
 > ### My website: /
  
