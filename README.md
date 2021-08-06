@@ -1,5 +1,6 @@
 ### 👋 Hi, my name is **Zahar Podyakov**!
-## I'm **front-end developer** from *Russia, # Сhelyabinsk*
+## I'm **front-end developer** from 
+*Russia, Сhelyabinsk*
 
 ### *Technologies and languages:*
 > html, css, sass (scss), js, react, redux, git, gulp
