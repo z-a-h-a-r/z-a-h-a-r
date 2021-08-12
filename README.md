@@ -2,10 +2,10 @@
 ## I'm **front-end developer** from *Russia, Сhelyabinsk*
 
 ### *Technologies and languages:*
-> ### *languages*: ![js]()
+> ### *languages*: js
 > ### *frameworks*: react
 > ### *libraries*: redux, react-redux, axios, react-router-dom, redux-form, redux-thunk
-> ### *layout*: ![html](https://img.shields.io/badge/-HTML-090909?style=flat&logo=html5), css, sass (scss), bootstrap
+> ### *layout*: html, css, sass (scss), bootstrap
 > ### *package managers*: npm, yarn
 > 
 ### *Contacs:*
