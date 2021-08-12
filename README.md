@@ -2,10 +2,10 @@
 ## I'm **front-end developer** from *Russia, Сhelyabinsk*
 
 ### *Technologies and languages:*
-> languages: js
-> frameworks: react
-> libraries: redux, react-redux, axios, react-router-dom, redux-form, redux-thunk
-> layout: html, css, sass (scss), bootstrap
+> # languages: js
+> # frameworks: react
+> # libraries: redux, react-redux, axios, react-router-dom, redux-form, redux-thunk
+> # layout: html, css, sass (scss), bootstrap
 
 ### *Contacs:*
 > ### mail: usfuld@gmail.com
