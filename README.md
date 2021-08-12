@@ -5,7 +5,7 @@
 > ### *languages*: ![js]()
 > ### *frameworks*: react
 > ### *libraries*: redux, react-redux, axios, react-router-dom, redux-form, redux-thunk
-> ### *layout*: ![html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5), css, sass (scss), bootstrap
+> ### *layout*: ![html](https://img.shields.io/badge/-HTML-090909?style=flat&logo=html5), css, sass (scss), bootstrap
 > ### *package managers*: npm, yarn
 > 
 ### *Contacs:*
