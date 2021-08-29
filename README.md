@@ -6,7 +6,7 @@
 > ### *frameworks*: react
 > ### *libraries*: redux, react-redux, axios, react-router-dom, redux-form, redux-thunk
 > ### *layout*: html, css, sass (scss), bootstrap
-> ### *package managers*: npm, yarn
+> ### *package managers*: npm
 > 
 ### *Contacs:*
 > ### *mail*: usfuld@gmail.com
