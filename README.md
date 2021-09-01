@@ -4,8 +4,8 @@
 ### *Technologies and languages:*
 > ### *languages*: js
 > ### *frameworks*: react
-> ### *libraries*: redux, react-redux, axios, react-router-dom, redux-form, redux-thunk
-> ### *layout*: html, css, sass (scss), bootstrap
+> ### *libraries*: redux, react-redux, axios, react-router-dom, redux-form, redux-thunk, react-slick
+> ### *layout*: html, css, sass (scss), bootstrap, slick-slider
 > ### *package managers*: npm
 > 
 ### *Contacs:*
