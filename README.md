@@ -13,5 +13,4 @@
 > ### *inst*: https://www.instagram.com/z_a_h_a_r_74/
 > ### *teleg*: https://t.me/z_a_h_a_r_74/
 > ### *vk*: https://vk.com/idzaharip
-> ### *My website*: /
  
