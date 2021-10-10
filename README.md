@@ -2,12 +2,15 @@
 ## I'm **front-end developer** from *Russia, Сhelyabinsk*
 
 ### *Technologies and languages:*
-> ### *languages*: js, ts
-> ### *frameworks*: react
-> ### *libraries*: redux, react-redux, axios, react-router-dom, redux-form, redux-thunk
-> ### *layout*: html, css, sass (scss), bootstrap, slick-slider
-> ### *package managers*: npm
-> 
+### Languages and Technologies 
+> ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+> ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
+> ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
+> ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
+> ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
+> ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+> ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+
 ### *Contacs:*
 > ### *mail*: usfuld@gmail.com
 > ### *inst*: https://www.instagram.com/z_a_h_a_r_74/
