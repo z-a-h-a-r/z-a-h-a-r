@@ -12,5 +12,5 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 
 ### *Contacs:*
-> ### *mail*: usfuld@gmail.com
-> ### *teleg*: https://t.me/z_a_h_a_r_74/
+> ### ✉️ *mail*: usfuld@gmail.com
+> ### 🌐 *telegram*: https://t.me/z_a_h_a_r_74/
