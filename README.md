@@ -1,5 +1,5 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> my name is **Zahar Podyakov**
-# I'm **front-end developer** from *Russia, Сhelyabinsk*
+### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> my name is **Zahar Podyakov**
+## I'm **front-end developer** from *Russia, Сhelyabinsk*
 
 ### *Technologies and languages:*
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
