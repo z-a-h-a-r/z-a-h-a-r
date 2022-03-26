@@ -12,4 +12,4 @@
 
 ### *Contacs:*
 > ### ✉️ *mail*: usfuld@gmail.com
-> ### 🌐 *telegram*: https://t.me/z_a_h_a_r_74/
+> ### 🌐 *telegram*: https://t.me/p_zahar
