@@ -1,4 +1,4 @@
-### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> my name is **Zahar Podyakov**
+### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> my name is **Zahar Podyakov**
 ## I'm **front-end developer** from *Russia, Сhelyabinsk*
 
 ### *Technologies and languages:*
