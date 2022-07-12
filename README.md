@@ -8,7 +8,7 @@ I am a Frontend and Mobile Developer.
 
 ## Employment 💻
 
-- **2022 - NOW** - MOBILE DEVELOPER - QEX
+- **2022 - 2022** - MOBILE DEVELOPER - QEX
     - Multiplatform app development on Flutter Framework
  - **2021 - 2021** - WEB DEVELOPER  - QEX
     - Website and web-app development using react 
